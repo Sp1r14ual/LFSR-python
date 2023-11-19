@@ -1,1 +1,1 @@
-# LSFR-python
+# LFSR-python
